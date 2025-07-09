@@ -133,33 +133,27 @@ console.log("Ready to change the world, one line of code at a time! 🌟");
 
 <table>
 <tr>
-<td align="center" width="33.3%">
+<td align="center" width="33%">
 <a href="https://www.codechef.com/users/quiet_cast_82">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=FF6B6B" alt="CodeChef"/>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<br><sub><b>🍳 quiet_cast_82</b></sub>
-<br><sub>Cooking algorithms daily!</sub>
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=FF6B6B" alt="CodeChef"/><br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
+  <sub><b>🍳 quiet_cast_82</b></sub>
 </a>
 </td>
 
-<td align="center" width="33.3%">
+<td align="center" width="33%">
 <a href="https://codeforces.com/profile/batman3">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white&labelColor=4ECDC4" alt="Codeforces"/>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<br><sub><b>🦇 batman3</b></sub>
-<br><sub>Fighting bugs in Gotham!</sub>
+  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white&labelColor=4ECDC4" alt="Codeforces"/><br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><br>
+  <sub><b>🦇 batman3</b></sub>
 </a>
 </td>
 
-<td align="center" width="33.3%">
+<td align="center" width="33%">
 <a href="https://leetcode.com/taskmaster001">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&labelColor=FFE66D" alt="LeetCode"/>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<br><sub><b>📋 taskmaster001</b></sub>
-<br><sub>Mastering data structures!</sub>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&labelColor=FFE66D" alt="LeetCode"/><br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"><br>
+  <sub><b>📋 taskmaster001</b></sub>
 </a>
 </td>
 </tr>
@@ -167,51 +161,41 @@ console.log("Ready to change the world, one line of code at a time! 🌟");
 
 </div>
 
-
 ---
 
-## 🚀 Current Projects & Focus Areas
+<h2 align="center">🚀 Current Projects & Focus Areas</h2>
 
 <div align="center">
 
-### 💡 **WHAT I'M WORKING ON**
+<h3>💡 <strong>WHAT I'M WORKING ON</strong></h3>
 
 <table>
 <tr>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200">
-<br><br>
-<h3>🌐 Full-Stack Web Applications</h3>
-<p>Building scalable, responsive web apps with modern tech stack</p>
-<br>
-<img src="https://img.shields.io/badge/Status-Active-00ff00?style=for-the-badge&labelColor=FF6B6B">
-</td>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
-<br><br>
-<h3>🤖 AI Integration Projects</h3>
-<p>Exploring machine learning and AI integration in web development</p>
-<br>
-<img src="https://img.shields.io/badge/Status-Research-ffaa00?style=for-the-badge&labelColor=4ECDC4">
-</td>
+  <td align="center" width="50%">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200"><br><br>
+    <h3>🌐 Full-Stack Web Applications</h3>
+    <p>Building scalable, responsive web apps with modern tech stack</p><br>
+    <img src="https://img.shields.io/badge/Status-Active-00ff00?style=for-the-badge&labelColor=FF6B6B">
+  </td>
+
+  <td align="center" width="50%">
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200"><br><br>
+    <h3>🤖 AI Integration Projects</h3>
+    <p>Exploring machine learning and AI integration in web development</p><br>
+    <img src="https://img.shields.io/badge/Status-Research-ffaa00?style=for-the-badge&labelColor=4ECDC4">
+  </td>
 </tr>
+
 <tr>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-96b3-1ba3c4b1fa71.gif" width="200">
-<br><br>
-<h3>🏆 Competitive Programming</h3>
-<p>Daily practice and participation in coding contests</p>
-<br>
-<img src="https://img.shields.io/badge/Status-Daily-4ECDC4?style=for-the-badge&labelColor=FFE66D">
-</td>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
-<br><br>
-<h3>📱 Mobile Development</h3>
-<p>Learning React Native and cross-platform development</p>
-<br>
-<img src="https://img.shields.io/badge/Status-Learning-A8E6CF?style=for-the-badge&labelColor=FF6B6B">
-</td>
+  <td align="center" width="50%">
+    <h3>🏆 Competitive Programming</h3>
+    <p>Daily practice and participation in coding contests</p><br>
+    <img src="https://img.shields.io/badge/Status-Daily-4ECDC4?style=for-the-badge&labelColor=FFE66D">
+  </td>
+
+  <td align="center" width="50%">
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"><br><br>
+  </td>
 </tr>
 </table>
 
@@ -219,7 +203,7 @@ console.log("Ready to change the world, one line of code at a time! 🌟");
 
 ---
 
-## 🎵 Coding Soundtrack
+<h2 align="center">🎵 Coding Soundtrack</h2>
 
 <div align="center">
 
@@ -241,11 +225,6 @@ def get_coding_playlist():
 playlist = get_coding_playlist()
 print("🎵 Ready to code with style! 🚀")
 ```
-
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&labelColor=FF6B6B)
-![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white&labelColor=4ECDC4)
-![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white&labelColor=FFE66D)
-
 </div>
 
 ---
@@ -260,12 +239,8 @@ print("🎵 Ready to code with style! 🚀")
 
 <br><br>
 
-[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-FFE66D?style=for-the-badge&logo=twitter&logoColor=black&labelColor=000000)](https://twitter.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/Instagram-A8E6CF?style=for-the-badge&logo=instagram&logoColor=black&labelColor=000000)](https://instagram.com/yourhandle)
-[![Discord](https://img.shields.io/badge/Discord-FF6B6B?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.gg/yourserver)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4ECDC4?style=for-the-badge&logo=About.me&logoColor=white&labelColor=000000)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:siddhantchasta4199@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4ECDC4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/siddhant-chasta-aa8a522ba)
 
 ### 💭 **QUICK STATS & FUN FACTS**
 
@@ -288,73 +263,6 @@ print("🎵 Ready to code with style! 🚀")
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🎯 Goals & Vision
-
-<div align="center">
-
-### 🚀 **2024 MISSION OBJECTIVES**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
-
-```javascript
-const goals2024 = {
-  technical: [
-    "🎯 Master advanced React patterns & optimization",
-    "🔧 Dive deep into system design & architecture",
-    "🤖 Build production-ready AI-powered applications",
-    "📱 Launch my first mobile app",
-    "🌐 Contribute to major open-source projects"
-  ],
-  
-  personal: [
-    "📚 Read 24 technical books",
-    "🏆 Achieve higher ratings in competitive programming",
-    "🎤 Speak at tech conferences",
-    "🤝 Mentor aspiring developers",
-    "🌍 Travel & code from different countries"
-  ],
-  
-  impact: [
-    "💡 Create tools that solve real problems",
-    "🌱 Build sustainable & accessible technology",
-    "🤝 Foster inclusive tech communities",
-    "🚀 Inspire the next generation of developers"
-  ]
-};
-
-console.log("Ready to make 2024 legendary! 🔥");
-```
-
-</div>
-
----
-
-## 🎨 Fun Zone & Easter Eggs
-
-<div align="center">
-
-### 🎭 **PERSONALITY MATRIX**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b9d4-0c7d4ea3a1c3.gif" width="300">
-
-**Developer Type:** Creative Problem Solver 🧩  
-**Coding Style:** Clean, Efficient, Innovative 💎  
-**Debugging Method:** Rubber Duck Debugging 🦆  
-**Favorite Emoji:** 🚀 (because we're always launching!)  
-**Spirit Animal:** 🦉 (Wise, nocturnal, always learning)
-
-### 🎪 **RANDOM DEVELOPER FACTS**
-
-- 🌟 I've written over **100,000 lines** of code this year
-- 🎯 My longest coding session was **16 hours** straight
-- 🤖 I dream in algorithms and wake up with solutions
-- 🎨 I believe good code is like poetry - beautiful and meaningful
-- 🌍 My code has been executed on **5 different continents**
 
 </div>
 
