@@ -278,12 +278,6 @@ print("🎵 Ready to code with style! 🚀")
 [![GitHub followers](https://img.shields.io/github/followers/siddhantchasta?label=Followers&style=for-the-badge&color=4ECDC4)](https://github.com/siddhantchasta)
 [![GitHub stars](https://img.shields.io/github/stars/siddhantchasta?label=Stars&style=for-the-badge&color=FFE66D)](https://github.com/siddhantchasta)
 
-### 💫 **READY TO COLLABORATE?**
-
-[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-FF6B6B?style=for-the-badge&logo=handshake&logoColor=white&labelColor=000000)](mailto:your.email@example.com)
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-4ECDC4?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=000000)](https://yourportfolio.com)
-[![View Resume](https://img.shields.io/badge/View%20Resume-FFE66D?style=for-the-badge&logo=document&logoColor=black&labelColor=000000)](https://yourresume.com)
-
 </div>
 
 ---
